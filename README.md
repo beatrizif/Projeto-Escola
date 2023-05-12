@@ -28,7 +28,7 @@ php artisan serve --port=9000
 ~~~
 você pode utilizar a porta que quiser.
 
-obs: utilize o comando abaixo para baixar a pasta vendor
+obs: utilize o comando abaixo para baixar a pasta vendor e poder rodar o projeto.
 ~~~php
 composer update
 ~~~
