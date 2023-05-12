@@ -6,11 +6,11 @@ Este é o projeto escola api. Temos 3 serviços que se comunicam entre si: Auten
 **Autenticação**
 * CRUD de usuários
 * login/out
-* 
+
 **Biblioteca**
 * CRUD de usuários e livros
 * empréstimo de livros
-* 
+
 **Escola**
 * CRUD de alunos, professores e turmas
 
