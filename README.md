@@ -1,14 +1,17 @@
 # -escola-api
 
 
-Este é o projeto escola api. Temos 3 serviços que se comunicam entre si: Autenticação, biblioteca e escola. Veja o que contém cada um: </br>
-**Autenticação** </br>
+Este é o projeto escola api. Temos 3 serviços que se comunicam entre si: Autenticação, biblioteca e escola. Veja o que contém cada um:
+
+**Autenticação**
 * CRUD de usuários
 * login/out
-**Biblioteca** </br>
+* 
+**Biblioteca**
 * CRUD de usuários e livros
 * empréstimo de livros
-**Escola** </br>
+* 
+**Escola**
 * CRUD de alunos, professores e turmas
 
 ### Qual a  finalidade desse projeto?
