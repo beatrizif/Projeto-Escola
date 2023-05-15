@@ -14,6 +14,8 @@ Este é o projeto escola api. Temos 3 serviços que se comunicam entre si: Auten
 **Escola**
 * CRUD de alunos, professores e turmas
 
+Neste primeiro momento, o projeto apresenta a estrutura clássica do Laravel e duas rotas que retornarão um recurso.
+
 ### Qual a  finalidade desse projeto?
 Desenvolver um program que permita a realização dessas ações pelos clientes. Que os usuáros façam e recebam requisições HTTP.
 
